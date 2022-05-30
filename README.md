@@ -1,4 +1,4 @@
-# SQLProject_2
+# EDA of covid-19
 EDA of covid-19 data using advanced SQL
 
 1- I joined two Databases
